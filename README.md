@@ -24,7 +24,7 @@ Bring your own.
 - Power On
 
 ## Setup In System
-- Format SDCARD to FAT with UI (Disks) in the Nvidia Ubuntu system.  /data/ 100G, /data2/ 400G
+- Format SDCARD to FAT with UI (Disks) in the Nvidia Ubuntu system.  /data/ 100G (FAT), /data2/ 400G (Ext4)
 
 ### Setup to monitor host GPU
 
