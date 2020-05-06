@@ -79,3 +79,4 @@ bash script_run_docker_locally.jetsonagx.sh
 - https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson
 - https://github.com/NVIDIA/nvidia-docker
 - https://ngc.nvidia.com/catalog/containers/nvidia:l4t-pytorch
+- https://gist.github.com/ShreyasSkandan/69f727d48f85d34e0e9b26308ade0040
