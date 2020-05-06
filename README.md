@@ -53,3 +53,4 @@ echo "blacklist rtl8192cu" | sudo tee -a /etc/modprobe.d/blacklist.conf
 - https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit#resources
 - https://developer.nvidia.com/embedded/dlc/jetson-agx-xavier-developer-kit-user-guide
 - https://developer.nvidia.com/embedded/jetpack
+- https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson
