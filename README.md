@@ -26,10 +26,11 @@ Bring your own.
 
 ### Setup to monitor host GPU
 
+```
 $ sudo apt install python3-pip
 $ sudo pip3 install jetson-stats
 $ jtop
-
+```
 
 # References
 - https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit#resources
