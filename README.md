@@ -78,3 +78,4 @@ bash script_run_docker_locally.jetsonagx.sh
 - https://developer.nvidia.com/embedded/jetpack
 - https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson
 - https://github.com/NVIDIA/nvidia-docker
+- https://ngc.nvidia.com/catalog/containers/nvidia:l4t-pytorch
