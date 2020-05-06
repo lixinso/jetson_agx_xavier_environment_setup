@@ -22,7 +22,7 @@ Bring your own.
 - Power On
 
 ## Setup In System
-- Format SDCARD to FAT with UI in the system
+- Format SDCARD to FAT with UI (Disks) in the Nvidia Ubuntu system.  /data/ 100G, /data2/ 400G
 
 # References
 - https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit#resources
