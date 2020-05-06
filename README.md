@@ -41,6 +41,8 @@ $ jtop
 
 ```
 #apt install cuda-nvcc-10-0
+#apt install cuda-toolkit-10-0
+
 ```
 
 ### Test Docker
