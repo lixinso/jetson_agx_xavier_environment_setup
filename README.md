@@ -24,6 +24,13 @@ Bring your own.
 ## Setup In System
 - Format SDCARD to FAT with UI (Disks) in the Nvidia Ubuntu system.  /data/ 100G, /data2/ 400G
 
+### Setup to monitor host GPU
+
+$ sudo apt install python3-pip
+$ sudo pip3 install jetson-stats
+$ jtop
+
+
 # References
 - https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit#resources
 - https://developer.nvidia.com/embedded/dlc/jetson-agx-xavier-developer-kit-user-guide
