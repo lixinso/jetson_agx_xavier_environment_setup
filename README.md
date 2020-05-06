@@ -40,8 +40,12 @@ $ jtop
 
 ```
 docker pull nvcr.io/nvidia/l4t-ml:r32.4.2-py3
-sudo docker run -it --rm --runtime nvidia --network host nvcr.io/nvidia/l4t-ml:r32.4.2-py3
+sudo docker run -it --rm --network host nvcr.io/nvidia/l4t-ml:r32.4.2-py3
 ```
+
+### Fix WIFI
+echo "blacklist rtl8192cu" | sudo tee -a /etc/modprobe.d/blacklist.conf
+
 
 # References
 - https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit#resources
