@@ -43,6 +43,22 @@ $ jtop
 #apt install cuda-nvcc-10-0
 #apt install cuda-toolkit-10-0
 
+
+#wget https://nvidia.box.com/shared/static/c3d7vm4gcs9m728j6o5vjay2jdedqb55.whl
+#mv c3d7vm4gcs9m728j6o5vjay2jdedqb55.whl torch-1.4.0-cp36-cp36m-linux_aarch64.whl
+#apt install libopenblas-base
+#pip3 install Cython
+#pip3 install numpy torch-1.4.0-cp36-cp36m-linux_aarch64.whl 
+
+>>> import torch
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+  File "/usr/local/lib/python3.6/dist-packages/torch/__init__.py", line 81, in <module>
+    from torch._C import *
+ImportError: libcudart.so.10.2: cannot open shared object file: No such file or directory
+
+
+
 ```
 
 ### Test Docker
