@@ -12,6 +12,17 @@ Bring your own.
 - SD Card [Samsung (MB-ME512GA/AM) 512GB 100MB/s (U3) MicroSDXC Evo Select Memory Card with Adapter
 ](https://www.amazon.com/gp/product/B07MKSGZM6/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 
+## Start Hardware
+
+- Connect Power supply
+- Connect Monitor with HDMI
+- Connect USB-C to USB Cabel (in the package), extend with a USB hub (1 USB to 4 USB, bring your own)
+- Connect WIFI Dongle on USB hub
+- Connect USB Keyboard/Mouse on USB hub
+- Power On
+
+## Setup In System
+- Format SDCARD to FAT with UI in the system
 
 # References
 - https://developer.nvidia.com/embedded/jetson-agx-xavier-developer-kit#resources
