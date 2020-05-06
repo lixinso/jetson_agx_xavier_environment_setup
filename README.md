@@ -38,6 +38,8 @@ $ jtop
 
 ### Test Docker
 
+#apt install nvidia-docker2
+
 ```
 docker pull nvcr.io/nvidia/l4t-ml:r32.4.2-py3
 sudo docker run -it --rm --network host nvcr.io/nvidia/l4t-ml:r32.4.2-py3
