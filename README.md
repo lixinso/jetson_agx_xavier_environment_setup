@@ -23,7 +23,7 @@ Bring your own.
 - Connect USB Keyboard/Mouse on USB hub
 - Power On
 
-## Setup In System
+## Setup In host System
 - Format SDCARD to FAT with UI (Disks) in the Nvidia Ubuntu system.  /data/ 100G (FAT), /data2/ 400G (Ext4)
 
 ### Setup to monitor host GPU
@@ -37,6 +37,11 @@ $ jtop
 
 ![jtop](res/jtop.png)
 
+### Set host software
+
+```
+#apt install cuda-nvcc-10-0
+```
 
 ### Test Docker
 
