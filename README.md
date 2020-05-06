@@ -42,6 +42,8 @@ $ jtop
 
 #apt install nvidia-docker2
 #apt install nvidia-container-runtime
+#apt-get update && sudo apt-get install -y nvidia-container-toolkit
+
 
 
 docker pull nvcr.io/nvidia/l4t-ml:r32.4.2-py3
@@ -57,3 +59,4 @@ echo "blacklist rtl8192cu" | sudo tee -a /etc/modprobe.d/blacklist.conf
 - https://developer.nvidia.com/embedded/dlc/jetson-agx-xavier-developer-kit-user-guide
 - https://developer.nvidia.com/embedded/jetpack
 - https://github.com/NVIDIA/nvidia-docker/wiki/NVIDIA-Container-Runtime-on-Jetson
+- https://github.com/NVIDIA/nvidia-docker
