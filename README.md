@@ -42,9 +42,11 @@ $ jtop
 
 #apt install nvidia-docker2
 #apt install nvidia-container-runtime
-#apt-get update && sudo apt-get install -y nvidia-container-toolkit
+#apt install -y nvidia-container-toolkit
+#systemctl restart docker
 
-
+# sudo docker info | grep nvidia
+Runtimes: nvidia runc
 
 docker pull nvcr.io/nvidia/l4t-ml:r32.4.2-py3
 sudo docker run -it --rm --network host nvcr.io/nvidia/l4t-ml:r32.4.2-py3
