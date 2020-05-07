@@ -27,3 +27,5 @@ Config the VM before power on VM.
 ![VMConfig2](res/agx_vm_02.jpg)
 
 - Manual Flush
+
+![Flash01](res/agx_sdk_ui.jpg)
