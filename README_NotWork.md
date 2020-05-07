@@ -1,5 +1,5 @@
 # Nvidia Jetson AGX Xavier (32G) Environment Setup
-# (Based on the preinstalled system. Doesn't work well eventually. Changed to flash from SDK Manager)
+# (Based on the preinstalled system. GPU Docker doesn't work well eventually. Changed to flash from SDK Manager)
 
 ## Hardware
 
