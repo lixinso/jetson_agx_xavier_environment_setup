@@ -34,3 +34,9 @@ Config the VM before power on VM.
 - Manual Flush
 
 ![Flash01](res/agx_sdk_ui.jpg)
+
+
+# References
+
+- https://www.youtube.com/watch?v=s1QDsa6SzuQ
+- https://cudaeducation.com/jetsonxavier/
