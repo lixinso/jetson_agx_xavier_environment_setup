@@ -26,7 +26,7 @@ Connect Jetson AGX Xavier to Power, but power off.
 
 - Virtual Box Ubuntu 18 Configuration
 
-Config the VM before power on VM.
+Config the VM before power on VM. Bridge. USB Filter.
 
 ![VMConfig1](res/agx_vm_01.jpg)
 ![VMConfig2](res/agx_vm_02.jpg)
