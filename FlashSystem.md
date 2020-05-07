@@ -21,4 +21,8 @@ Release both button.
 
 
 - Virtual Box Ubuntu 18 Configuration
+
+![VMConfig1](res/agx_vm_01.jpg)
+![VMConfig2](res/agx_vm_02.jpg)
+
 - Manual Flush
