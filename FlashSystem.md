@@ -33,8 +33,9 @@ Config the VM before power on VM.
 
 - Manual Flush
 
-![Flash01](res/agx_sdk_ui.jpg)
-
+![Flash01](res/agx_sdk_ui_1.jpg)
+![Flash01](res/agx_sdk_ui_2.jpg)
+![Flash01](res/agx_sdk_ui_3.jpg)
 
 # References
 
