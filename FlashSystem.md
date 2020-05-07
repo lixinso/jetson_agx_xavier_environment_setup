@@ -14,9 +14,9 @@
 
 Connect Jetson AGX Xavier to Power, but power off.
 
-Press and hold the middle (force recovery) button.
-Press and hold the left (power) button.
-Release both button.
+    - Press and hold the middle (force recovery) button.
+    - Press and hold the left (power) button.
+    - Release both button.
 
 
 
