@@ -18,7 +18,8 @@ JetPack 4.4
 Download the NVIDIA SDK Manager to install JetPack.
 https://developer.nvidia.com/nvsdk-manager
 
-sudo apt install ./sdkmanager-[version].[build#].deb 
+ $ sudo apt install ./sdkmanager-[version].[build#].deb 
+($ sudo apt install ./sdkmanager_1.1.0-6343_amd64.deb)
 ```
 
 - Remove SD Card from Jetson AGX Xavier if you have
