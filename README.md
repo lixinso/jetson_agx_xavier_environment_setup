@@ -1,6 +1,5 @@
 # Nvidia Jetson AGX Xavier (32G) Environment Setup
-
-(Note: I work based on the preinstalled system. Didn't use JetPack to do the installation due to my computer USB issue)
+# (Based on the preinstalled system. Doesn't work well eventually. Changed to flash from SDK Manager)
 
 ## Hardware
 
