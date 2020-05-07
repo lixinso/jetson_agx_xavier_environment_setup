@@ -12,8 +12,8 @@ SD Card not required
 
 - Connect USB-C to USB to Mac
 
-![Connection01](res/agx_connection_01.jpg	)
 ![Connection02](res/agx_connection_02.jpg	)
+![Connection02](res/agx_connection_03.jpg	)
 
 - Recovery Mode
 
