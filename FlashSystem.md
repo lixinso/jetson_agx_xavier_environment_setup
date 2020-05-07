@@ -1,8 +1,14 @@
 # Flash Jetson AGX Xavier Environment on Mac (Ubuntu 18 VM with Virtual Box)
 
+## Notes
+
 Network not required.
 
 SD Card not required
+
+JetPack 4.4
+
+## Steps
 
 - Install Virtual Box on MacBook. Then Install Ubuntu 18 in it.
 
