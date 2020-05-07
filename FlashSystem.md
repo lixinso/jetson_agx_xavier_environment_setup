@@ -14,6 +14,13 @@ JetPack 4.4
 
 - Install SDK Manager in host Ubuntu 18 in VM
 
+```
+Download the NVIDIA SDK Manager to install JetPack.
+https://developer.nvidia.com/nvsdk-manager
+
+sudo apt install ./sdkmanager-[version].[build#].deb 
+```
+
 - Remove SD Card from Jetson AGX Xavier if you have
 
 - Connect USB-C to USB to Mac
