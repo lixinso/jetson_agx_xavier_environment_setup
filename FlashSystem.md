@@ -18,6 +18,14 @@ JetPack 4.4
 
 - Connect USB-C to USB to Mac
 
+```
+- Verify with command $lsusb 
+$ lsusb
+......
+Bus 001 Device 010: ID 0955:7019 NVidia Corp. 
+......
+```
+
 ![Connection02](res/agx_connection_02.jpg	)
 ![Connection02](res/agx_connection_03.jpg	)
 
