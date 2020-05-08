@@ -52,6 +52,10 @@ Connect Jetson AGX Xavier to Power, but power off.
 ![Flash01](res/agx_sdk_ui_2.jpg)
 ![Flash01](res/agx_sdk_ui_3.jpg)
 
+# Notes
+
+- If error says can't find python, then "apt install python" on host ubuntu.
+
 # References
 
 - https://www.youtube.com/watch?v=s1QDsa6SzuQ
