@@ -37,6 +37,9 @@ $ sudo pip3 install jetson-stats
 $ jtop
 ```
 
+![jtop](res/jtop2.png)
+
+
 
 
 ## Test Environment
