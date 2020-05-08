@@ -74,3 +74,10 @@ cuda available:  True
 >>> 
 
 ```
+
+## RUN Docker Environment
+
+```
+bash script_run_docker_locally.jetsonagx.sh
+```
+
