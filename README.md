@@ -62,4 +62,15 @@ Runtimes: nvidia runc
 ```
 docker pull nvcr.io/nvidia/l4t-ml:r32.4.2-py3
 sudo docker run -it --rm --runtime nvidia --network host nvcr.io/nvidia/l4t-ml:r32.4.2-py3
+
+
+# python3
+Python 3.6.9 (default, Apr 18 2020, 01:56:04) 
+[GCC 8.4.0] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import torch
+>>> print("cuda available: ", torch.cuda.is_available())
+cuda available:  True
+>>> 
+
 ```
