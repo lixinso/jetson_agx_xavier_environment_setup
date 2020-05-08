@@ -1,4 +1,4 @@
-# Flash Jetson AGX Xavier Environment on Mac (Ubuntu 18 VM with Virtual Box)
+# Flash Jetson AGX Xavier Environment on Mac (Ubuntu 18 Dual System, not VM)
 
 ## Notes
 
@@ -10,7 +10,7 @@ JetPack 4.4
 
 ## Steps
 
-- Install Virtual Box on MacBook. Then Install Ubuntu 18 in it.
+- Install Dual System (Ubuntu 18) on Macbook Pro.
 
 - Install SDK Manager in host Ubuntu 18 in VM
 
