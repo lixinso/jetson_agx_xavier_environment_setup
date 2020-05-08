@@ -1,4 +1,5 @@
 
+After [Flush System](https://github.com/lixinso/jetson_agx_xavier_environment_setup/blob/master/FlashSystem.md)
 
 ```
 $ nvcc --version
