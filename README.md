@@ -95,3 +95,10 @@ Then mount a volumn to /var/lib/docker folder
 # rm -rf /var/lib/docker.bak/
 
 ```
+
+
+### Fix Remote Desktop Share
+
+https://medium.com/@bharathsudharsan023/jetson-nano-remote-vnc-access-d1e71c82492b
+
+
