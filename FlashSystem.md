@@ -12,7 +12,7 @@ JetPack 4.4
 
 - Install Dual System (Ubuntu 18) on Macbook Pro.
 
-- Install SDK Manager in host Ubuntu 18 in VM
+- Install SDK Manager in host Ubuntu 18 
 
 ```
 Download the NVIDIA SDK Manager to install JetPack.
@@ -45,13 +45,6 @@ Connect Jetson AGX Xavier to Power, but power off.
     - Press and hold the left (power) button.
     - Release both button.
 
-
-- Virtual Box Ubuntu 18 Configuration
-
-Config the VM before power on VM. Bridge. USB Filter.
-
-![VMConfig1](res/agx_vm_01.jpg)
-![VMConfig2](res/agx_vm_02.jpg)
 
 - Manual Flush
 
