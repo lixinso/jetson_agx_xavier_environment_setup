@@ -1,6 +1,8 @@
 
 After [Flush System](https://github.com/lixinso/jetson_agx_xavier_environment_setup/blob/master/FlashSystem.md)
 
+## Test Environment
+
 ```
 $ nvcc --version
 
@@ -13,3 +15,8 @@ $ sudo docker info | grep nvidia
 
 Runtimes: nvidia runc
 ```
+
+## Test Docker
+
+docker pull nvcr.io/nvidia/l4t-ml:r32.4.2-py3
+sudo docker run -it --rm --runtime nvidia --network host nvcr.io/nvidia/l4t-ml:r32.4.2-py3
