@@ -16,8 +16,8 @@ RUN mkdir /myworkdir
 VOLUME ["/myworkdir"]
 WORKDIR /myworkdir
 
-ADD ./install_llvm_on_jetson.sh  /myworkdir/install_llvm_on_jetson.sh
-RUN bash /myworkdir/install_llvm_on_jetson.sh
+#ADD ./install_llvm_on_jetson.sh  /myworkdir/install_llvm_on_jetson.sh
+#RUN bash /myworkdir/install_llvm_on_jetson.sh
 
 RUN pip3 install numba
 
