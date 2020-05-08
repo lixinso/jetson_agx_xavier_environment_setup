@@ -51,6 +51,9 @@ Connect Jetson AGX Xavier to Power, but power off.
 ![Flash01](res/agx_sdk_ui_1.jpg)
 ![Flash01](res/agx_sdk_ui_2.jpg)
 ![Flash01](res/agx_sdk_ui_3.jpg)
+![Flash01](res/agx_sdk_ui_4.jpg)
+![Flash01](res/agx_sdk_ui_5.jpg)
+![Flash01](res/agx_sdk_ui_6.jpg)
 
 # Notes
 
