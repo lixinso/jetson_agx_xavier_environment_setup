@@ -85,7 +85,7 @@ bash script_run_docker_locally.jetsonagx.sh
 ## Docker path 
 
 
-
+```
 # service docker stop
 # mv /var/lib/docker/ /var/lib/docker.bak/
 
@@ -94,4 +94,4 @@ Then mount a volumn to /var/lib/docker folder
 # service docker start
 # rm -rf /var/lib/docker.bak/
 
-
+```
