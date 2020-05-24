@@ -101,4 +101,4 @@ Then mount a volumn to /var/lib/docker folder
 
 https://medium.com/@bharathsudharsan023/jetson-nano-remote-vnc-access-d1e71c82492b
 
-
+### Set fixed IP manually if you don't want remove monitor and connect with X2GO afterwards
