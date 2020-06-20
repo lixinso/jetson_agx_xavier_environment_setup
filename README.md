@@ -96,6 +96,12 @@ Then mount a volumn to /var/lib/docker folder
 
 ```
 
+## Install Visual Studio Code (headmelted)
+
+```
+# . <( wget -O - https://code.headmelted.com/installers/apt.sh )
+# code-oss
+```
 
 ### Fix Remote Desktop Share
 
