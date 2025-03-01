@@ -108,3 +108,5 @@ Then mount a volumn to /var/lib/docker folder
 https://medium.com/@bharathsudharsan023/jetson-nano-remote-vnc-access-d1e71c82492b
 
 ### Set fixed IP manually if you don't want remove monitor and connect with X2GO afterwards
+
+### If you try Ethernet cable, make sure it connect to the right port (i.e., mine port 1 on my Xfinity device) on your hub. (Test it with other computer to ensure it works)
